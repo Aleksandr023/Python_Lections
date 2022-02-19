@@ -1,6 +1,6 @@
 # Лекция 1
     # Типы данных, переменные
-
+# типы данных : int- целые числа, float- с плавающей точкой, boolean- логические, str- строки, list- массивы
 
 #value = None
 # print(type(a)) # type показывает тип переменной
@@ -195,18 +195,19 @@
 
 #def function_name(x):
 
-# def f(x):
-#     if x == 1:
-#         return "Целое"
-#     elif x == 2.3:
-#         return 23
-#     else:
-#         return
+def f(x):
+    if x == 1:
+        return "Целое"
+    elif x == 2.3:
+        return 23
+    else:
+        return
 
 
 # arq = 2
 # print(f(arq))
 # print(type(f(arq)))
+
 
 
 
