@@ -39,11 +39,11 @@
 # print(new_string('!'))
 # print(new_string(5))
 
-def concatenatio(*params):
-    res = 0
-    for item in params:
-        res+= item
-    return res
+# def concatenatio(*params):
+#     res = 0
+#     for item in params:
+#         res+= item
+#     return res
 # print(concatenatio('a', 's', 'd', 'w')) # asdw
 # print(concatenatio('a', '1', 'd', '2')) # a1d2
 #print(concatenatio(1, 2, 3, 4)) # TypeError: ...
@@ -155,7 +155,7 @@ def concatenatio(*params):
 
    # Списки
 
-list1 = [1,2,3,4,5]
+# list1 = [1,2,3,4,5]
 # list2 = list1
 # for e in list1:
 #     print(e)
